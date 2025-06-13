@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Office Building",
+    "image": "https://i.ibb.co.com/WpjzkKPL/1.jpg",
+    "category": "Building",
+    "description": "A sleek, modern office space with eco-friendly design and smart technology integration.",
+    "location": "New Kingston"
+  },
+  {
+    "id": 2,
+    "name": "Residential Apartment",
+    "image": "https://i.ibb.co.com/BHYzxshb/2.jpg",
+    "category": "Building",
+    "description": "Spacious residential apartment complex with private balconies and communal amenities.",
+    "location": "Montego Bay"
+  },
+  {
+    "id": 3,
+    "name": "Highway Construction",
+    "image": "https://i.ibb.co.com/C3f0b2mg/5.jpg",
+    "category": "Construction",
+    "description": "A major highway development project improving transportation infrastructure.",
+    "location": "Spanish Town"
+  },
+  {
+    "id": 4,
+    "name": "Bridge Project",
+    "image": "https://i.ibb.co.com/604WHy26/3.jpg",
+    "category": "Construction",
+    "description": "A modern bridge designed to handle high traffic volumes and improve connectivity.",
+    "location": "Portmore"
+  },
+  {
+    "id": 5,
+    "name": "Urban City Planning",
+    "image": "https://i.ibb.co.com/DgmfL8wg/4.jpg",
+    "category": "Planning",
+    "description": "A master plan for future urban development including parks, roads, and green spaces.",
+    "location": "Downtown Kingston"
+  },
+  {
+    "id": 6,
+    "name": "Landscape Planning",
+    "image": "https://i.ibb.co.com/4nPPm4Zq/6.jpg",
+    "category": "Planning",
+    "description": "Design strategy for public landscapes with a focus on sustainability and beauty.",
+    "location": "Negril"
+  }
+]
