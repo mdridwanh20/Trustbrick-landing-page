@@ -26,10 +26,3 @@ Explore the live version at: [ https://trustbricklandingpage01.netlify.app ]
 
 - Node.js ≥ 16
 - npm 
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/trustbrick-landing.git
-cd trustbrick-landing
-npm install
