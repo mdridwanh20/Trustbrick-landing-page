@@ -1,12 +1,35 @@
-# React + Vite
+# 🏗️ TrustBrick Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional, responsive single-page landing site showcasing TrustBrick’s services, featured projects, timeline, testimonials, and contact details — built with React + Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+Explore the live version at: [ https://trustbricklandingpage01.netlify.app ]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💡 Built With
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Additional libraries:
+  - **React Scroll / React Router** (for smooth scrolling/navigation)
+  - **Leaflet / Google Maps React** (for the 'Find Us' map)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js ≥ 16
+- npm 
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/trustbrick-landing.git
+cd trustbrick-landing
+npm install
